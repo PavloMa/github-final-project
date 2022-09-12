@@ -1,7 +1,18 @@
 # Interest rate calculator
-## Coursera Github course
-## github-final-project
+*Coursera Github course*
 
-With a mission to empower and provide opportunities to low income individuals. 
+*github-final-project*
 
-Developed by the micro-finance startup
+**A calculator that calculates simple interest given principal, annual rate of interest and time period in years.**
+
+## Input:
+   p, principal amount
+   
+   t, time period in years
+   
+   r, annual rate of interest
+   
+## Output
+   simple interest = p*t*r
+
+Developed by the **micro-finance startup**
